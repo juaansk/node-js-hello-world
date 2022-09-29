@@ -1,18 +1,17 @@
 {
-  "name": "prueba1",
+  "name": "aprendiendo-node",
   "version": "1.0.0",
-  "description": "prueba 1 de deploy",
+  "description": "prueba2 de deploy",
   "main": "hello-world.js",
   "scripts": {
-    "test": "test"
+    "test": "helloworld"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/juaansk/node-js-hello-world.git"
   },
   "keywords": [
-    "hello",
-    "world"
+    "hello"
   ],
   "author": "Juan Sillak",
   "license": "UNLICENSED",
