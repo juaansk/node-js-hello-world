@@ -1,26 +1,20 @@
 {
-  "name": "helloworld",
+  "name": "aprendiendo-node",
   "version": "1.0.0",
-  "description": "probando",
+  "description": "asd1",
   "main": "index.js",
   "dependencies": {
-    "http": "^0.0.1-security"
+    "code": "^5.2.4",
+    "http": "^0.0.1-security",
+    "start": "^5.1.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \\”Error: no test specified\\” && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/juaansk/node-js-hello-world.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "juan"
+    "dsa",
+    "asd"
   ],
   "author": "juan",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/juaansk/node-js-hello-world/issues"
-  },
-  "homepage": "https://github.com/juaansk/node-js-hello-world#readme"
+  "license": "ISC"
 }
