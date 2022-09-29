@@ -1,0 +1,23 @@
+{
+  "name": "prueba1",
+  "version": "1.0.0",
+  "description": "prueba 1 de deploy",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaansk/node-js-hello-world.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Juan Sillak",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/juaansk/node-js-hello-world/issues"
+  },
+  "homepage": "https://github.com/juaansk/node-js-hello-world#readme"
+}
