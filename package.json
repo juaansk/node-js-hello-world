@@ -1,0 +1,26 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "probando",
+  "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \\”Error: no test specified\\” && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaansk/node-js-hello-world.git"
+  },
+  "keywords": [
+    "juan"
+  ],
+  "author": "juan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juaansk/node-js-hello-world/issues"
+  },
+  "homepage": "https://github.com/juaansk/node-js-hello-world#readme"
+}
